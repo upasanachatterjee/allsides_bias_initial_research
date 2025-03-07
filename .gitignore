@@ -5,4 +5,6 @@ republican_party/*
 politics/*
 .DS_Store
 json-articles/*
-
+.env
+*.csv
+generated_text/*
