@@ -1,10 +1,11 @@
-food/*
-immigration/*
-democratic_party/*
-republican_party/*
-politics/*
+sentiment_analysis/*
 .DS_Store
 json-articles/*
 .env
 *.csv
 generated_text/*
+grouped_results/*
+bert_generated_text/*
+.venv
+*.jsonl
+
